@@ -5,7 +5,7 @@ class Logica{
 
     public function metodoIntegrante1(){
         $nombreIntegrante1="Angel Jadan";
-        return "Integrante1 ".$nombreIntegrante1;
+        return "Este método ha sido modificado por ".$nombreIntegrante1;
     }
 }
 
